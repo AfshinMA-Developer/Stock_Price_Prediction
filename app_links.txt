@@ -1,0 +1,10 @@
+Github:
+https://github.com/AfshinMA-Developer/Traffic_Sign_Detection-Streamlit_App.git
+Kaggle:
+https://www.kaggle.com/code/afshinma/apple-stock-price-prediction-using-lstm
+https://www.kaggle.com/code/afshinma/google-stock-price-prediction-using-lstm
+https://www.kaggle.com/code/afshinma/tesla-stock-price-prediction-using-lstm
+Huggingface:
+https://huggingface.co/spaces/AfshinMA/Traffic_Sign_Detection-Gradio_App
+https://huggingface.co/spaces/AfshinMA/Traffic_Sign_Detection-Streamlit_App
+Streamlit:
